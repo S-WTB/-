@@ -1,0 +1,786 @@
+--[[
+08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 668 - function JumpTo
+    Script 'Script', Line 689
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 668 - function JumpTo
+    Script 'Script', Line 689
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 668 - function JumpTo
+    Script 'Script', Line 689
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 668 - function JumpTo
+    Script 'Script', Line 689
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 668 - function JumpTo
+    Script 'Script', Line 689
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 668 - function JumpTo
+    Script 'Script', Line 689
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 668 - function JumpTo
+    Script 'Script', Line 689
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 668 - function JumpTo
+    Script 'Script', Line 689
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 668 - function JumpTo
+    Script 'Script', Line 689
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 668 - function JumpTo
+    Script 'Script', Line 689
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 668 - function JumpTo
+    Script 'Script', Line 689
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 668 - function JumpTo
+    Script 'Script', Line 689
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 668 - function JumpTo
+    Script 'Script', Line 689
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 668 - function JumpTo
+    Script 'Script', Line 689
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 668 - function JumpTo
+    Script 'Script', Line 689
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 668 - function JumpTo
+    Script 'Script', Line 689
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:44 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 1
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 668 - function JumpTo
+    Script 'Script', Line 689
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 668 - function JumpTo
+    Script 'Script', Line 689
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 668 - function JumpTo
+    Script 'Script', Line 689
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 668 - function JumpTo
+    Script 'Script', Line 689
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 668 - function JumpTo
+    Script 'Script', Line 689
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 668 - function JumpTo
+    Script 'Script', Line 689
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 480 - function getSortedHookModules
+    Script 'Script', Line 529 - function onCodeFieldEdit
+    Script 'Script', Line 738
+    Stack End08:37:15 - :77: C stack overflow
+    Stack Begin
+    Script 'Script', Line 479 - function getSortedHookModules
+    Script 'Script', Line 539 - function onCodeFieldEdit
+    Script 'Script', Line 668 - function JumpTo
+    Script 'Script', Line 689
+    Stack End
+]]
+-- moonsecV4
+return(function(...)local N,O,f=table,string,bit local n,a,l,T,s,c,_,Q,i,o,d=O.byte,O.char,O.sub,N.concat,N.insert,math.ldexp,getfenv and getfenv()or _ENV,setmetatable,select,unpack or N.unpack,tonumber;local t=(function(t)local O,s,P,e,d,o,n=1,function(P)local O=""for e=1,#P,1 do O=O..a(n(P,e)-(29))end return d(O,36)end,"","",{},256,{}for O=0,o-1 do n[O]=a(O)end;local function f()local P=s(l(t,O,O))O=O+1;local e=s(l(t,O,O+P-1))O=O+P;return e end;P=a(f())d[1]=P;while O<#t do local O=f()if n[O]then e=n[O]else e=P..l(P,1,1)end;n[o]=P..l(e,1,1)d[#d+1],P,o=e,e,o+1 end;return N.concat(d)end)("OQQOTQOTQOQNOTROQSORTOTROT_OQQOShOQQOQROT`OQQNfOTeOTQOSmOThOQQOSSOTROTdOTQOToOQQOPhOT_OTTOTQOSUOSqOSrOStOTjOQOOTROScOSUOSbOTNOSvOSoOQQOQTOTROSrOTNOSUOQQOQMOUbOSiOSUOTjOUgOTQOSsOTMOSqOSbOU`OUROSVOSrOQQOUQOUmOSwOSvOSsOSqOUeOUwOQQOUVOScOSmOSbOUeOUlOQQOSuOVQOTMOQQOTuOQQOStOSlOSmOShOS`OQQOQPOTROSoOSmOSUOSnOSmOSvOS^OUfOTRORkORqOSOORbOQQOQUOUROVrOSuOVrOVQOUMOUOOUvO^UOUOOSsOVROTROSVOSvOS`OSqOSsOTPOQQOQ`OTROSUOVNOSVOSuOSrOV^OQQOPcOUlOSPOReORaO_PORfOSPOR`O_TOReO_^OR`O_UORgOSPORfOTOO_dOSbO_SO_POSsO_bOSPORgORdO_mOS`O_mOS_O_dOSqO_UOSNO_UOSlO_mO_wORgOStO_rO_PO_cOReOReO_UOSpO_lORfOSnO_mO_hORgO_kOR`O`PO_uORgORbO_mOSOO_mOS^O_pO_mOSuO_iORgO_uOR`O_cORgO_TORgO_RORgO`nOReO_qOaNO_dO``ORfOSmOSPORaOaQO_wOReOaaOaRO_gO_mOSPO_dOaUO`^ORfOSaO_mO_RORfO_qOReOTNO_dO`cOReOTPO`mO_dOSrOa^O_mOa_OaUO`pO_cOabO`sORaOSwOabOapORgOb^O_TORfOSUObTO_mObOORgO``ORgO_wO`lO_POavORgOavOa`OabObcO`bO_tO_dO_kOb_OReObMOapORfO_sORgOatO`cOahO`fO_mOaOOScO_mO`RORfObRORgO`sORfOboO_aORfOcRO_^ObOOcOORgOc_O`lOcTO_mO_uORaObOOReObeO`vO`nObnObSOclOSPORbO`POboO``OR`OdVO`lOR`OaaOc^ObsO_POctO_uOafO_mO_aObpOdqO_PO_fO`QObSORfOdoO`NOdwORgOTMO_dO`pOR`O_oOd^ORgOSvO_POaaOReO`RO__O_POdeObcOR`OapOR`OcgO`kO_mO_cORjOatO_TOdfO_lOauO_POapOReOcgOReOeSOReOSoO_POfOOdROctO`nORfOanOf_OagOavOevOdsORkO_fORkO`ROfgOceOSPORkObOORkO`sOfnOd_OciO_kOfPObSOdNORgObcOfiOflObfOSPORjOeSOe`O_mObcOaVOdNOfeOeaOfeO_ROdpOgROSpObROgfO_sOgTOawO_dOg_O`^OSpOdVOavOSpO`PO`^OdbOgSOSVO_mObtObhOfOOdjOcRO``OdSOdtORgObROf`O_mOemOh`O_sOeVO`qORbO`cOhfORfO`NOSqOaQOb^O_cOhfOh_OSPOSqO`NOfROebO_dOaaOhtO`SOhkO_iOReObRORkOakOR`O_hOR`ObjOeNO`oO_UOiVO_fOefORfOhNO`wOdmO`rOewO_POatOaUO`sOgNOduOdaOeeOfMOagOg_OemOatOdROfdOifOeSOSrOckOeeOatOfMObmOaUObcOSrOiUOirOhVORgO`eOhRO_POePOatOjSOboO`eObcOhvOjeO`NORkOiUOjfOfOOePOemOcgOSrO_oOfeOfOO_fOSsO_oOkPOSPOSrOfQObtO`ROR`OeaO_VO_mOiiOc_OiqOckOdhO`eOc_OgcO_^O`nOijOgVOc`O_mObjOSsOfSO`^OabO`^OenOlQO_uORfO`eO`ROenOefORdOi_OepO``OSlOlPOgiOcgORfO_cOlhO_mOckOheOemO_uOSlOcpO_aOetOgROSsOcmOaMOb^OlVOemObtOgUObvOaMOcROaUORjOSPORdO`sOijORdOeiO`UOesOm`O_^OavOSmOesOgeOmdOSPOSmO`^OijOSmO_aOefOSmOdhO_cOSsOfOO_wOSmO_uOmiOmmO`NOSmOhiO_^OkQO_TOSlO`nOSmObROkfOSmO`ROnQOReO_uORkOnNO_fOijOR`O`vO_TOnbO_UO`sOSqOkeObhOkqO_ROR`Om`O`sOReO`lOnOO_POjuOnpOdeO`^OnQOSmO_cOSnO_kOSnO`cOoeO_UO_ROogOSnOmVOSnOmhO`NOoeOTqOTROOpOQoO^MOTQOSrOShOSwOSbOoqOQQONdOSrORtOQQOSlOTROPnORaOTcOpaOTQOPnOTQOQSOQQOpfOpcOTQOUaOUaOTQORMOTQOUgOpfOUgOpnOVfOpgOptOpsOUQOpfOUQOpsOVoOTdOVoOpsO^pOTdO^pOpdOQQOQaOq`OTROpsOqaOqaOQbOQQOq_OqgOQcOTROUwOqgOQ^OpaOTdOQMNrOTROqoOqqOqsOpiOTdOPnNOOQQOqjOT_NcOrQOpaOqNOSMOrUOPoOqpOUfOqwOQQOraOrNOrPOqgO^TOpcOrPOqkOQVOp^OrPO^TOqoOrkOQQOrnOQ_OqlOr_OrnOPuOrbOqrOTROsOOTdORMNhOrtOpaOrvOrOOQQOqoOPlOqlOTQOrvOTpOptOQQOQrOTROVgOsjOTROVaOsnOTQOrrOTQOskOTQOVSOsqOpbOqhOROOQQOsdOPmOT_OVoOrvOpfOpfOPnOtPOsdOq_OUvOQdOUrORUOtNOsQOTQOtgOsTOsVOtSOUaOraOQOOr_OtSORVOsPOrdOttOTdOTVOQQOtSOTqOt`OqhOTrOTUOT^OraOphO^cOuTOUaOTdOTuOsuOouOstOTROsgOugOTQOsdOTROueOtSOumOp^OseOQQOPiO^MOucOujOuOOT_OueOspOueOuiOtMOulOuwOtcOUwOPjOptOuvOtMOvPOuhOvNOTROvTOtMOuoOvUOurOPkO^cOTdOplOueOTsOupOTQOraOvrOqbOTROpTOPtOuTOsvOTQOsOOqQO^oOuwOvqOuwOswOvQOveOukOwaOsiOuwOviOvbOwcOVoOvwOQQOPvOwOOu`OPwOwTOTdOToOueOrjOu`OPpOqbOqROwUOwcOutOvuOvlOvuOsOOvuOvtOuwOv_OvuOwvOwPOQQOPqOrUOvnOuwOwoOvuOwtOtMOrnOTRNlOQQOPrPNMcOTeOPsOQQPNMaOT_PNMsOuMOT_OpsOTeORNOrUOT`PNMpPNNQOu_OQQPNMsOThPNMpPNN`OTkOshOTQOqkOTSOTnOTeOosOT`OpPOQQOS`ORtPNNlOurOQQOSsOVNOVPOSUOQRORrOp^OtPOwqOurOu_PNMfOu`OTeOVSOoqOVSOu_OPnORvOUrPNO`OpoOpuOT`OsmOuSO^cOplOtTOT`Oq_O^pOVaOqdOvmPNOiOqgOTqOUlO^pOrfOTQNdO^SOTeOpTOrnPNNfOTQOVoO^TOt^OTQORROVnOQQOqkO^TOQMONbOwTOquOu`OqUOpaOUlOuePNNVOVSPNOkOtMOT`OueOoqOQiOvvOTeOqgO^pOT`PNOtOTeOqaOpeOT_OUaPNQSOtQPNNgPNOSOv_PNQ^OsvORgOpaPNOOOqbOtiOQQPNQgPNQiOpTOToOpTOqaPNQOOTQOrTOqaPNNMOQQOotOqgOVoOqaOQOOteOqgOtwOsoOtvOpbOotOUgPNRNOrcOTROQhOpbOpTOqgPNPqOTNPNPcOUrOT`O^TPNOkOq_OrnOuQOsrOtNOTROqkOqoPNNVOUgOrROQQPNRePNRjOTQORpPNRiPNPqOTQPNPeOuqOs^PNRpOsbPNRrPNNePNSaPNNVOqgPNSMPNPUO^cOqgOTROqgOVgOpsPNSfPNRrOqkOspPNSUOufOpwPNOrOTROUaPNMjPNNgOrROspPNMpOToPNPOOqaPNOpOwoOqeOwdOrUPNOhOqbPNSjOT_PNQcOTeOTqOu_PNSrPNNhOT`OosPNNlOQmPNNoOTeORvPNNoPNMPOqhOrvPNOPOpiOpuPNNVOpjPNOmPNOePNTiPNQTPNTvOTQOpTOUQOoqNSPNPbOThPNPkOT`PNTfPNSkPNT`OTQO^pOqgOpfOqTOwTPNPqOVoPNP_PNNhOUQOVoPNPfOpuOTTPNTSPNUNOT_OQsOUrPNS`OUgPNTjOpqOTePNUOPNNkOThOTqPNNlPNNjOwNOTROSgPNNcOrbOT`PNUqPNQUPNSPOsoPNVlOshPNTjOT_PNNVPNOSOQQOpsPNOPOoqPNVsPNTkPNVVPNSbPNOcOTeOUgPNSTOptPN^TOTTPNSmPNNgPNUwPNVqPNUhOtNPNNVOpfPN^TPNVjOTUPNVnOrVOTkPNNpPNOkPNVbOQoPNNpPN^PPNSNOQSOQuPNONOpuOuQOtPOUaOu_OQ^OQtPNUvOthOrdPN^aPNQiOutOTdOQ^ONaOpuPN__PNPlOrdPN_dORMONgOufOUaPN_hOv`OUrOQOOSiO^MO^TOuvPNQiPN_rPNRaOTQPNRoOTQOqaOpkPNOfONoPNOTOprN^O^cOUQPNUoOpaOTTOqPPNPbPN_kPNQTPN^fOT_PNMMOThOVSOspOpfOTdOQOORlOTROwNPNOPPNQiPN`qPNUVPN^NPN_aOpuORPPN_TOTRPNaNOsTPN_iOVaOUaPN`wOpfPNTRO^MPNQiPNa_OqbPN`POphPN`ROVgOprPNMsPN^^OUrORMOSePNVNOplOpTPNNgOpoOrdPN`tOQQOSqPN^QOTROTmPNNdOT`PN^nPNNiPN^pOThPNTpOThOQTPNMdOsvOteOpfPNUUPNarOvdOsTOTsOubOpaOPlNoPN^QPNPqPNOkPN`dO^MPN`lPNVtPNQ`PNRrPNVSOpvPNOeOUgOTdOulOppOufOUrOUaOprPNOePNbhPNVmPNcSOT_PNcPPNOeOTROwvPNbfPNVQPNbiONcPNblPN`NO^MPN`POQQOSQOufOUgOQOO^nOUaOv_OqqPN_vOQQPNctPNcvOwlOrNOtPPNcMOqlOteOUgPNdOPNRTOTRPNdVPNQiOwoPNdPPNckOT_PNavPNcaOTQPNbNPN^rOVgPNNlOQ`PNbUOT_OPlPNdnOTROS`ORuPNVbPNdqOTQPNNnOQQPN^uOTRORnPNVgPNTwPN^bPNV^PN_OOqcPNUPPNcVPNVkPNPqPN^SOTePNTbOwPPNTjPNcpPNOfPNNgPN^TPNU_OTePNUtPNedPNPbPNPoPN^jPNUpOTePNOoPNOUOwTPNNVOVoPN^TO^pPN^TPNTUPNemOqbPNNVOUaOwiPN^bOswOshPNeePNcQPNURPNe^PNa`PNeiPNbpPNfePNecPNboOTTPNVUPNVmOUgPN`aPNbsOsmPNbuPNfrPNfcPNfhPNV`PNfwPNbOOorOotPNMlOTQORuPNeRPN^PPN^hPNe_PN^RPN^jPNcuPN^ePNfuPN`ePN`gPNSPPNVuPNVhOshPN^TPNQTPNgMPNViPN^NOT_PNdvPNNmOpTPNMROovPNgTPNNlPNgVPNawPNbrPNcRPN^PPNe`OpuPN^TPNgjPNffPNgmPNdgPNhOOT`PNdRPNOgPNfuOUaPNflPNgePNhTPNV^PNVjOpsPNP_OoqPNhiPNQTPNQuPNgdPNgmPNV^PNgNPNRsPNgnOTQPNTmOTeOQdPNgpOOpPNdtOTeOQePNgpOQoPNgpORtPNiOONTPN^qOpPOOtN_PNdvOPMNoPNgpOQhORwOQQOQfOT_PNTNPNfwPNVrPN^lPN^kOq_PNbqPNbPPN^PPNhaPNOiPN^aPNUMOqMOTeOUaPNjPOpsPN`PPNbmPN^jPNiwOslOtNOq_OUQOVaOq_OVoPNTbPNR_PNfgPNjNOT_PNelPNUMOVoPNf`OptPNesOulOTTPNjfOQQOQvPNOePNNQOqVPNcvPNkMPNjuO^ROUaPNdbOwTPNdaPN_eOTRPNa_PNalO^cOTTPNQOPNavPNjPPNbdPNP`OpaOuRPNiwOuROpfPNQqPNQiPNPaOTdOQvOQqO^MPNkpPNQhOrdPNkuOQvPNkRPNjuOpaPNOoOrdPNjvOqvOTROR^OpaOQhONlPNOrPNQOPNilOUQOTTOUQOtqO^cORQOtuOTRPNljOTdPNl`O^cO^pPNlcPNkbOu`PNkePNfgPNPOPNkfOtjPNPbPN^_PNkUPNNROwPO^pPNUlPNShOUaPNPTPNepPNUbOwPPNUsPNjkPNfgPNgePNg_PNhsPNiqPNTlPNbSOT_OpRPNNoORSPNdSPNSwPNaOPNUPPNlUPNScPNVMPNV^OrTPNbqOphPNapPNeiPNlNOTRPNQtPNk^PNcjPNmtPNRiPNdcPN^hPNavPN^hPNPOPNitOTQOScPNhMPNc^PNeoPN^VOwdOpsPNajPNPqOpfPNhePNNhPNhhPN^jPNgwPN`fPNgmOT_Oq_PNclPNc`PNjaPNejPNVmOUrPNRSOQQPNPOPNenOTROSuOwTPNTbPNROPNQMPN^POqkPNNlO^TPNjoOrnPNjoOqgPNgQPNnSPN^iOqiPNfuPNUjPNfSPNgkPNQTPNmcPNUuPNkSOpbPNPOPNfVPNgoPNfvOTQOSnOUrOspOTjPN^TPNdiPNNpPNVwPNaPPNPwOQQOSNPN^POTbPNV^NVOtNPNmvPNOmNUPNcfPNh`OTkPNhrPN^rPNhuPNShPNmhPNhwOT`PNdmPNiaPNbTPNNlPNdpPNNlOPtPNiOOpTPN`UOTRORmPNgTOThPNpsPNc_PNpqOThPNjjOsePNjoPNesPNiuOwSPNoVPNfuPNNQPNdRPNNVPNOhPNjbPN^PPNo_PNOiPNUdOouOUQOR_PNpOPNMeOT_OVmPNQQOqkPNkrOrUPNcdOpuPNQiPNr`PNqnPN_uOTROrTPN_uOpfPNnRO^TOsSPNpVOrdPNrlPNQiPNdVOQQNiPNRiPNgmPNogPNd^OTQPNRSPNnROqgPNMwPNnUPNN^PNsRPNaQPNPNPNPPPNNVPNrgPN^kPNSNPNRiOwtPNQiPNsNO^ROqgPNlTPNrmOTRPNsiPNsePNrQPNRlOrSPNPPPNQuOpTPNPdOT_PNPaOTTOqaPNSqPNPgOUQOsdPNdcPNjlPNsVPNf^PNrfPNPbPNNMOuRPNrMOQMPNjvOUQPNbkPNVMPNQQOTROSTPNrRPNNVPNSqOTeO^TPNTdPNRnPNoQPNSaPNNlPNRtOpuPNjvPNRiOskPNMfPNQiPNuMPNcvNnPNrQPNtlOTRONmPNPPPNtoPN_wOufOq_PNRuOTePNttPNNVPNSVOT`OrnPNu_PNSaOVgOq_OrvPNjoO^TOtVOT_OrnPNTjOqoPNTbPNPiPNNVOrvPNTbPNUUPNNVOtROTeOrnOuPPNkQPNRiOSOOpaPNcSOrdPNv_PNn^Op`PNVMPNuuOT_ORkPNtrOpuOulOrnOpfOssPNukOTePNuwPNQ_Os^OTTOqoOspOStOpaPNr^OqkORoPNlkOTQPNwQPNvfOTeOrTPNvrOPlOQjOs^PNvnPNcvPNwMPNkqO^ROqkORjPNPlPNcvPNwiPNn^OSsPNrQPNvoPNQrPNvjPNUlOTsOqoOqoOVoPNw`PNwbPNSaPNQiPNwePNjuPNksOqkPOMQOpqOrdPOMQPNqnPNwpOQQNNPNwrPNhNPNwuPNPbPNvlOpuPNvoPNvgOT`PNw_PNu`PNvuPNsVPNvvOT_PNljOrvOwtOq_PNtQPNS^PNvUPOMlOvMPNriPNRqOUePN`rOrdPONSPNcvOS_OpaOsUPNSaPNusOTQOotPNvgOscPNwaPONcOrrPNPOPOMqPNllOQQPOMtPNS^OsdPNjdOTQOtSPNutPONPPNlPPNSaPNVfPONTPNVePNsRNjPON`OsVOqoPNvmPONdPNvpPONgPOMNPONjPOMOPOMrPONnPNPPPNUMOsdPNOdPONvPONOOtSPONQPNSaOqsPOOOOTQPOOoPNcvNmPOOSPONbOsiPONeOptPOO`OrnPOMoOQQPNPaPNcjPNusPNtOOQQPNRcPNVMPNtSOQQORcPNOrOpfOulPNeVOUQPNqtPNNlPNtUPNOlPNt_PNUiOthOwPPNpoPNceOqgPNnTPNqnOqkOswOrTPNrvOphPNkuPNTPPOPVNPOpbPNavPNeVPNbMPNpuPNSPPN^oPNNpPNgpPNdmOQTPNgQPONaPNbQPONaOVaPNUlOsVOVgPNjRPNMbOpaOwiOuePNPqOvOOwcOsmPNjoPOQoOoqPNPnPNmdPNouPNauO^cPNNVPNpaPN^NPNMVPOQaPNNiONTOtNORPPNqPOT`ORMPOQcPNgpPNSNPNqRPNgpOPhPNgpPNqUPNNlOPpPNgpORUPNgpOQtPNgpOROPNgpOQvPNgpORQPNgpOR^PNgpORSPNihOpTORpOTqOpnPN^qPNnePNmqPNV^PNecPNUMPNjjPNqtPNV^POPkOTRPNQqPNUeOTkPNQqPNVMPNfROpcPNwiPNRfPNudOTkPNQ^PNmUOqbPOPtOTQPNTdOT`PNm_PNOiPNugPNurPNPwPNubPOPoPNPPPOS_OUvPNmoOUaPNr`OrvPNrbOpbPN`ROsdOrvPN_kPNvRPNbcOotOtSO^pOuoPNPaPNwwOvMPNQiPNsQORMOsdPOTjPNRVPNQ_O^pOulPNPaOqkOrvPONqPNPgO^TPN_dOQQPN`RO^TPN`OPNVtOsdO^TPNreORsOs^PNvoPNgPPN``PNVtPOOTPNS_PNjuPOOtOqoOtkOptPNQiPOUuPNQiOO`PNwNOtSOqoNsOpaPNjcOrdPOVSPNkqPOVQOQQPN_pPOOpPOVaOpaPN`wOUgOtePN_`PNcvPOVhPOUoPOOeOrnOwiPNRcOsdPNmPOtSPNokPNdoPNQ_OwfPOUUPNQ_OspPNdtOtlPOVmPNUbOqkPOVqPNfePOVsPNOTPNQ_PNvRPNhtPOUVPNhNPNajOoqPN`MPNfpPO^RPNtUOrvPO^MOpsOsdPOVtOpsPO^^POSkPO^cOtSPNnmPN_mOTRPO^gPNhNOrvPOVnPOVuPOVrOs^OswPOUNOvMPO^bPNQ_PO^uPNqhPO_MOpsPO_OPNmaPOOePO^lOwbPO^oPONsOs^PO^rPOVvPO^dPO^vPNu`OuvPO_cOs^PNtUPO^UOpmPO_jPOVtOvfPO_mPO_^OsdPO_`PNRrPO_bOsfPO_sOT_PO^kPOOePO^mPO_SPNhNPO^qPO`^PO_mPO`RPO^fPOUnPO_rPO_PPO`NPO_RPO`MOwbPO^aPNScPO^cPO`gPOTUPO_qPO`UPO`kPO`UPO_gPNQ_PO_iOvMOrnPO_lPNvRPO`sPO^wPO`iPO`vPO_ePO_uPO`cPO`bPO`NPO`pPNRiPO`rPN^`PO`SPOa^PO^iPO_QPO^VPOacPO`oPO_VPO`qPO^NOT_PO^PPNvVOqoOSdPOQpPNcvPOawPNn^NePOOuPO_dOqSOSpPOaOPO^_OsdPO^TPOabPNbcPNScOtSPO`QPO_wOwTOTRPObdPOapPOafPOTuPOasOQRPO^QPObSOTQPOVpPNnlPObfPO_TPO`OPOaqPONqPObmPNkqPOUsOQQPNuROTdPNTUOrdPOcRPNcvNbPNwNPNksOqoOrPPNkNPNQiPOccPOVlPObpOUrPO`_OrvPO`aPOaPPO`dOvdPNvRPO^OPObnPOcgPO`VPNQvPO_fPOOeOrePOOePOVcPOatOQvPOV`PNPgOTdOqgPNQiPOdSPOcsPO`kPNcNPObkPObhPO^_OpiPNPTOpsOraPObbOuTPNjoOtSOwVPO`NPORQPO^MPOcMOTRPOdPPOcaOQQONnOpaPNSqOrdPOdvOToPORUPNkgOQQPOatPONaPOchORdPOarOT`OtSPO^MOuqPNjoOraPOdfOTQOTsPNUUOpsOutPO`nOuSPNTtPOdcOThOvTOwfOpdOtSPOckOwPOpdOrNOpiPNTjPOdhOTeOTsOVSOq_POUaOouOraPORaOsTOtbOuSOToOotOvlPOfaPOPRPNRiOv_OvlPNUuOraON_PNsRPOdPPOV`OOrOpaPNPeOrdPOfqPOcOPNSaOOVOpaPNusOrdPOgMPNn^OOgPOc`PNSaOOkPOVePNcvPOgVPOboPO`VPONaPO^nOu`POUTPOOePONqOrdPOeTOsVPObpPOgcPOacPOgfPO^cPNQiPOatPN_QPOOeONvPOg^PNQiPOguPNn^OPdPObRPOctPOe^POdqOT_POeaPOcwOpiPOedPNrtPNhNPOehPON`OTQPOekPO^_OpdPOenPO_jPOepPOeoOpiPOetPNhNPOPhPNkiPOfNOTePOfPOT`POfRPNS^POfUOUlOraOPTPON`POfaPOewPOO^POfePNOiPOgfPOfiOUfPNPgOraOP_POfnPOcrPOeUPOctPOdaPOebPO_jPNjoOpdPOefPOdMPOdiPOhuPOe`OwmPOdnPNfgPOdpPNcQPOdPPOcPOOmPNbiPNcvPOjMPNn^OQiPOcrPN`wOtSORUPOjSPNcvPOjVOToPOUjOs`OqcOQkPOdMPO_POpsOTsPOelOqkOraOTsPOaUPO_pPNbvOuSPO`wPOdMPNTjOTsOqkOtcOusPOddPNcwPOh`OpsOvlPOiROpsOwNPOelOutPNVdOT_POdmOT_PNMVPOdmPOdlOTeOsdPNMVOTROraOtSOpdPNSuPNPMPNumPNfuOraPOjwPOegPNOTPOfTPOT_POjlPOidPOUOPOTnOQQPOiTOsgPOiVPOlPPOi_POdMOPlPOlMOptPNjNPNwMPO`TPOjqPO_ePOeePNOiPOksPNjoOutPOilOv_POiROTROvlPNjoOTsPNgsPOkiPN^iPNhtOpdOraPOjnPOUqPO^hOraPOjrPOlfPOkhPNPMOsTPOahPO`hOvaPNmfPOiuPOidPOgkPOgbPObUPOgdPObuPOb`PO^pPOdNOT_OqkPObiPOmiPOaRPOhTPObvPObkPONtPOcNPNjuPOV`OQqPOcrOpdPNQiPOmwPOgaPO`kOUaPOcjPNhNPOmfPOabPOmoPOcoPOblPOdrPOjSPN_ROraOQlPOj^PNQiPOnfPNn^PNNoPOnQPNUbOotPOnTPOimPNwRPOeSPOcrOTlPN^NPOUMPOl`PNsTOpbPOeQOT`");local O,N,P,e=1,f and f.bxor or function(O,e)local P,N=1,0 while O>0 and e>0 do local l,n=O%2,e%2 if l~=n then N=N+P end O,e,P=(O-l)/2,(e-n)/2,P*2 end if O<e then O=e end while O>0 do local e=O%2 if e>0 then N=N+P end O,P=(O-e)/2,P*2 end return N end,148,function(e,O,P)if P then local O=(e/2^(O-1))%2^((P-1)-(O-1)+1);return O-O%1;else local O=2^(O-1);return(e%(O+O)>=O)and 1 or 0;end;end local P,f,d=function()local n,d,e,l=n(t,O,O+3);n,d,e,l=N(n,P),N(d,P),N(e,P),N(l,P)O=O+4;return(l*16777216)+(e*65536)+(d*256)+n;end,function()local P=N(n(t,O,O),P);O=O+1;return P;end,function()local e,l=n(t,O,O+2);e,l=N(e,P),N(l,P)O=O+2;return(l*256)+e;end;local function h()local O=P();local P=P();local l=1;local N=(e(P,1,20)*(2^32))+O;local O=e(P,21,31);local P=((-1)^e(P,32));if(O==0)then if(N==0)then return P*0;else O=1;l=0;end;elseif(O==2047)then return(N==0)and(P*(1/0))or(P*(0/0));end;return c(P,O-1023)*(l+(N/(2^52)));end;local O,l=P,function(e)local d;if(not e)then e=P();if(e==0)then return'';end;end;d=l(t,O,O+e-1);O=O+e;local P={}for O=1,#d do P[O]=a(N(n(l(d,O,O)),148))end return T(P);end;local O,c=P,function(...)return{...},i('#',...)end local function R()local o,t,O={},{},{};local a={o,t,nil,O};local O,N=P(),{}for e=1,O do local P,O=f();if(P==2)then O=(f()~=0);elseif(P==1)then O=h();elseif(P==0)then O=l();end;N[e]=O;end;a[3]=f();for t=1,P()do local O=f();if(e(O,1,1)==0)then local l,n,O=e(O,2,3),e(O,4,6),{d(),d(),nil,nil};if(l==0)then O[3]=d();O[4]=d();elseif(l==1)then O[3]=P();elseif(l==2)then O[3]=P()-(2^16)elseif(l==3)then O[3]=P()-(2^16)O[4]=d();end;if(e(n,1,1)==1)then O[2]=N[O[2]]end if(e(n,2,2)==1)then O[3]=N[O[3]]end if(e(n,3,3)==1)then O[4]=N[O[4]]end o[t]=O;end end;for O=1,P()do t[O-1]=R();end;return a;end;local function T(O,n,a)local P,e,O=O[1],O[2],O[3];return function(...)local N,r,l,t,P,d,i,c,f,h,e=P,e,O,c,1,-1,{},{...},i('#',...)-1,{},{};for O=0,f do if(O>=l)then i[O-l]=c[O+1];else e[O]=c[O+1];end;end;local c=f-l+1 local O;local l;while true do O=N[P];l=O[1];if l<=85 then if l<=42 then if l<=20 then if l<=9 then if l<=4 then if l<=1 then if l>0 then local f;local s,a;local l;e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];l=O[2]s,a=t(e[l](o(e,l+1,O[3])))d=a+l-1 f=0;for O=l,d do f=f+1;e[O]=s[f];end;P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,d))P=P+1;O=N[P];e[O[2]][e[O[3]]]=e[O[4]];P=P+1;O=N[P];P=O[3];else local t=r[O[3]];local o;local l={};o=Q({},{__index=function(P,O)local O=l[O];return O[1][O[2]];end,__newindex=function(e,O,P)local O=l[O]O[1][O[2]]=P;end;});for d=1,O[4]do P=P+1;local O=N[P];if O[1]==58 then l[d-1]={e,O[3]};else l[d-1]={n,O[3]};end;h[#h+1]=l;end;e[O[2]]=T(t,o,a);end;elseif l<=2 then e[O[2]]=(O[3]~=0);elseif l>3 then if(e[O[2]]==O[4])then P=P+1;else P=O[3];end;else e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]][e[O[3]]]=e[O[4]];P=P+1;O=N[P];P=O[3];end;elseif l<=6 then if l>5 then e[O[2]]=n[O[3]];else local P=O[2];do return e[P](o(e,P+1,O[3]))end;end;elseif l<=7 then local O=O[2]e[O]=e[O](e[O+1])elseif l==8 then e[O[2]]=e[O[3]]-O[4];else e[O[2]]=e[O[3]]+e[O[4]];end;elseif l<=14 then if l<=11 then if l==10 then e[O[2]]=e[O[3]]*O[4];else e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]][e[O[3]]]=e[O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]][e[O[3]]]=e[O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]][e[O[3]]]=e[O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]][e[O[3]]]=e[O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]][e[O[3]]]=e[O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]][e[O[3]]]=e[O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]][e[O[3]]]=e[O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]][e[O[3]]]=e[O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]][e[O[3]]]=e[O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]][e[O[3]]]=e[O[4]];P=P+1;O=N[P];P=O[3];end;elseif l<=12 then local l;e[O[2]]=n[O[3]];P=P+1;O=N[P];l=O[2]e[l]=e[l]()P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];l=O[2]e[l]=e[l]()P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,O[3]))P=P+1;O=N[P];e[O[2]]=e[O[3]]*O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]]+e[O[4]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,O[3]))P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,O[3]))P=P+1;O=N[P];e[O[2]]=O[3]^e[O[4]];P=P+1;O=N[P];if(e[O[2]]==O[4])then P=P+1;else P=O[3];end;elseif l==13 then e[O[2]]=(O[3]~=0);else local N=O[3];local P=e[N]for O=N+1,O[4]do P=P..e[O];end;e[O[2]]=P;end;elseif l<=17 then if l<=15 then local d;local n;local l;e[O[2]]=O[3];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];e[O[2]]=#e[O[3]];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];l=O[2];n=e[l]d=e[l+2];if(d>0)then if(n>e[l+1])then P=O[3];else e[l+3]=n;end elseif(n<e[l+1])then P=O[3];else e[l+3]=n;end elseif l==16 then e[O[2]]=e[O[3]]+O[4];else if(e[O[2]]<=O[4])then P=P+1;else P=O[3];end;end;elseif l<=18 then e[O[2]]=(O[3]~=0);P=P+1;elseif l>19 then e[O[2]]=e[O[3]]-O[4];else e[O[2]]();end;elseif l<=31 then if l<=25 then if l<=22 then if l==21 then e[O[2]]=e[O[3]]/O[4];else e[O[2]]=#e[O[3]];end;elseif l<=23 then e[O[2]]=e[O[3]]-e[O[4]];elseif l>24 then local O=O[2]e[O]=e[O](e[O+1])else n[O[3]]=e[O[2]];end;elseif l<=28 then if l<=26 then e[O[2]]=e[O[3]]*e[O[4]];elseif l==27 then local l;e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];l=O[2];do return e[l](o(e,l+1,O[3]))end;P=P+1;O=N[P];l=O[2];do return o(e,l,d)end;P=P+1;O=N[P];do return end;else local O=O[2]e[O]=e[O](o(e,O+1,d))end;elseif l<=29 then e[O[2]]=O[3]/O[4];elseif l>30 then e[O[2]]=e[O[3]]/O[4];else local O=O[2]local N,P=t(e[O]())d=P+O-1 local P=0;for O=O,d do P=P+1;e[O]=N[P];end;end;elseif l<=36 then if l<=33 then if l>32 then local d;local n;local l;l=O[2]e[l]=e[l]()P=P+1;O=N[P];e[O[2]]={};P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];l=O[2];n=e[l]d=e[l+2];if(d>0)then if(n>e[l+1])then P=O[3];else e[l+3]=n;end elseif(n<e[l+1])then P=O[3];else e[l+3]=n;end else local o;local t;local l;e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];e[O[2]]={};P=P+1;O=N[P];e[O[2]]={};P=P+1;O=N[P];l=O[2];d=l+c-1;for O=l,d do t=i[O-l];e[O]=t;end;P=P+1;O=N[P];l=O[2];o=e[l];for O=l+1,d do s(o,e[O])end;end;elseif l<=34 then e[O[2]]=O[3];elseif l==35 then local P=O[2]local N,O=t(e[P](o(e,P+1,O[3])))d=O+P-1 local O=0;for P=P,d do O=O+1;e[P]=N[O];end;else if(O[2]<e[O[4]])then P=O[3];else P=P+1;end;end;elseif l<=39 then if l<=37 then e[O[2]]=e[O[3]]%e[O[4]];elseif l==38 then local N=O[2];local l=e[N]local n=e[N+2];if(n>0)then if(l>e[N+1])then P=O[3];else e[N+3]=l;end elseif(l<e[N+1])then P=O[3];else e[N+3]=l;end else local l;e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,O[3]))P=P+1;O=N[P];if(e[O[2]]~=O[4])then P=P+1;else P=O[3];end;end;elseif l<=40 then local l;e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]]-O[4];P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,O[3]))P=P+1;O=N[P];e[O[2]]=e[O[3]]/O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]]+e[O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]]*e[O[4]];P=P+1;O=N[P];do return e[O[2]]end P=P+1;O=N[P];do return end;elseif l==41 then e[O[2]]=e[O[3]]/e[O[4]];else local N=O[2];local l=e[N]local n=e[N+2];if(n>0)then if(l>e[N+1])then P=O[3];else e[N+3]=l;end elseif(l<e[N+1])then P=O[3];else e[N+3]=l;end end;elseif l<=63 then if l<=52 then if l<=47 then if l<=44 then if l>43 then local l;e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,O[3]))P=P+1;O=N[P];if(e[O[2]]~=O[4])then P=P+1;else P=O[3];end;else local O=O[2];do return o(e,O,d)end;end;elseif l<=45 then e[O[2]][e[O[3]]]=e[O[4]];elseif l>46 then e[O[2]]=T(r[O[3]],nil,a);else if(e[O[2]]<=e[O[4]])then P=P+1;else P=O[3];end;end;elseif l<=49 then if l==48 then e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]][e[O[3]]]=e[O[4]];P=P+1;O=N[P];P=O[3];else local f;local s,a;local l;e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];l=O[2]s,a=t(e[l]())d=a+l-1 f=0;for O=l,d do f=f+1;e[O]=s[f];end;P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,d))P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]][O[3]]=e[O[4]];end;elseif l<=50 then e[O[2]][O[3]]=e[O[4]];elseif l>51 then if e[O[2]]then P=P+1;else P=O[3];end;else local c;local s;local l,l;local f;local a,i;local l;e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]][e[O[3]]]=e[O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];l=O[2]a,i=t(e[l](o(e,l+1,O[3])))d=i+l-1 f=0;for O=l,d do f=f+1;e[O]=a[f];end;P=P+1;O=N[P];l=O[2]a,i=t(e[l](o(e,l+1,d)))d=i+l-1 f=0;for O=l,d do f=f+1;e[O]=a[f];end;P=P+1;O=N[P];l=O[2]a,f={e[l](o(e,l+1,d))},0;for O=l,O[4]do f=f+1;e[O]=a[f];end P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+e[O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]]-O[4];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];l=O[2];s=e[l]c=e[l+2];if(c>0)then if(s>e[l+1])then P=O[3];else e[l+3]=s;end elseif(s<e[l+1])then P=O[3];else e[l+3]=s;end end;elseif l<=57 then if l<=54 then if l>53 then e[O[2]]=e[O[3]]*e[O[4]];else local P=O[2]local l={e[P]()};local N=O[4];local O=0;for P=P,N do O=O+1;e[P]=l[O];end end;elseif l<=55 then local N=O[3];local P=e[N]for O=N+1,O[4]do P=P..e[O];end;e[O[2]]=P;elseif l>56 then if(e[O[2]]==O[4])then P=P+1;else P=O[3];end;else e[O[2]]=e[O[3]][O[4]];end;elseif l<=60 then if l<=58 then e[O[2]]=e[O[3]];elseif l>59 then for O=O[2],O[3]do e[O]=nil;end;else local l;e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];l=O[2];do return e[l](o(e,l+1,O[3]))end;P=P+1;O=N[P];l=O[2];do return o(e,l,d)end;P=P+1;O=N[P];do return end;end;elseif l<=61 then local P=O[2]e[P]=e[P](o(e,P+1,O[3]))elseif l==62 then e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]][e[O[3]]]=e[O[4]];P=P+1;O=N[P];P=O[3];else e[O[2]]=e[O[3]][e[O[4]]];end;elseif l<=74 then if l<=68 then if l<=65 then if l==64 then e[O[2]]=e[O[3]];else local l;e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,O[3]))P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,O[3]))P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];n[O[3]]=e[O[2]];P=P+1;O=N[P];do return e[O[2]]end P=P+1;O=N[P];do return end;end;elseif l<=66 then local d;local n;local l;e[O[2]]=O[3];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];e[O[2]]={};P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];e[O[2]]={};P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];e[O[2]]=e[O[3]]-O[4];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];l=O[2];n=e[l]d=e[l+2];if(d>0)then if(n>e[l+1])then P=O[3];else e[l+3]=n;end elseif(n<e[l+1])then P=O[3];else e[l+3]=n;end elseif l>67 then local l;local t;local d;e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];d=O[2]e[d]=e[d](o(e,d+1,O[3]))P=P+1;O=N[P];t=O[3];l=e[t]for O=t+1,O[4]do l=l..e[O];end;e[O[2]]=l;P=P+1;O=N[P];e[O[2]][e[O[3]]]=e[O[4]];P=P+1;O=N[P];e[O[2]]=#e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]][e[O[3]]]=e[O[4]];P=P+1;O=N[P];P=O[3];else local P=O[2];local N=e[P];for O=P+1,O[3]do s(N,e[O])end;end;elseif l<=71 then if l<=69 then e[O[2]]=e[O[3]]+e[O[4]];elseif l>70 then for O=O[2],O[3]do e[O]=nil;end;else e[O[2]]=O[3];end;elseif l<=72 then e[O[2]]=e[O[3]]%e[O[4]];elseif l==73 then local O=O[2];d=O+c-1;for P=O,d do local O=i[P-O];e[P]=O;end;else do return end;end;elseif l<=79 then if l<=76 then if l>75 then if not e[O[2]]then P=P+1;else P=O[3];end;else local l;l=O[2]e[l]=e[l]()P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,O[3]))P=P+1;O=N[P];if(e[O[2]]~=O[4])then P=P+1;else P=O[3];end;end;elseif l<=77 then e[O[2]]={};elseif l>78 then if(O[2]<e[O[4]])then P=O[3];else P=P+1;end;else local N=O[2]local l,P={e[N](o(e,N+1,O[3]))},0;for O=N,O[4]do P=P+1;e[O]=l[P];end end;elseif l<=82 then if l<=80 then local c;local s;local l,l;local f;local a,i;local l;e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];l=O[2]a,i=t(e[l](o(e,l+1,O[3])))d=i+l-1 f=0;for O=l,d do f=f+1;e[O]=a[f];end;P=P+1;O=N[P];l=O[2]a,i=t(e[l](o(e,l+1,d)))d=i+l-1 f=0;for O=l,d do f=f+1;e[O]=a[f];end;P=P+1;O=N[P];l=O[2]a,f={e[l](o(e,l+1,d))},0;for O=l,O[4]do f=f+1;e[O]=a[f];end P=P+1;O=N[P];e[O[2]]=e[O[3]]+e[O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]]-O[4];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];l=O[2];s=e[l]c=e[l+2];if(c>0)then if(s>e[l+1])then P=O[3];else e[l+3]=s;end elseif(s<e[l+1])then P=O[3];else e[l+3]=s;end elseif l==81 then e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]][e[O[3]]]=e[O[4]];P=P+1;O=N[P];P=O[3];else local O=O[2]e[O]=e[O](o(e,O+1,d))end;elseif l<=83 then if(e[O[2]]<e[O[4]])then P=O[3];else P=P+1;end;elseif l==84 then local c;local s;local l,l;local f;local a,i;local l;e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];l=O[2]a,i=t(e[l](o(e,l+1,O[3])))d=i+l-1 f=0;for O=l,d do f=f+1;e[O]=a[f];end;P=P+1;O=N[P];l=O[2]a,i=t(e[l](o(e,l+1,d)))d=i+l-1 f=0;for O=l,d do f=f+1;e[O]=a[f];end;P=P+1;O=N[P];l=O[2]a,f={e[l](o(e,l+1,d))},0;for O=l,O[4]do f=f+1;e[O]=a[f];end P=P+1;O=N[P];e[O[2]]=e[O[3]]+e[O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]]-O[4];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];l=O[2];s=e[l]c=e[l+2];if(c>0)then if(s>e[l+1])then P=O[3];else e[l+3]=s;end elseif(s<e[l+1])then P=O[3];else e[l+3]=s;end else e[O[2]]=a[O[3]];P=P+1;O=N[P];e[O[2]]=a[O[3]];P=P+1;O=N[P];e[O[2]]=a[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=a[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=a[O[3]];P=P+1;O=N[P];if not e[O[2]]then P=P+1;else P=O[3];end;end;elseif l<=128 then if l<=106 then if l<=95 then if l<=90 then if l<=87 then if l>86 then local o;local d;local l;l=O[2]e[l]=e[l]()P=P+1;O=N[P];e[O[2]][O[3]]=e[O[4]];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];l=O[2]e[l]=e[l]()P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];l=O[2];d=e[l]o=e[l+2];if(o>0)then if(d>e[l+1])then P=O[3];else e[l+3]=d;end elseif(d<e[l+1])then P=O[3];else e[l+3]=d;end else if(e[O[2]]~=O[4])then P=P+1;else P=O[3];end;end;elseif l<=88 then if(e[O[2]]<e[O[4]])then P=P+1;else P=O[3];end;elseif l==89 then local n;local l;e[O[2]]={};P=P+1;O=N[P];e[O[2]]={};P=P+1;O=N[P];e[O[2]]={};P=P+1;O=N[P];e[O[2]]={};P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];for O=O[2],O[3]do e[O]=nil;end;P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];l=O[2];n=e[l];for O=l+1,O[3]do s(n,e[O])end;else local t,d;local l;e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];l=O[2]t,d={e[l](o(e,l+1,O[3]))},0;for O=l,O[4]do d=d+1;e[O]=t[d];end P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,O[3]))P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,O[3]))P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,O[3]))P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,O[3]))P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];n[O[3]]=e[O[2]];P=P+1;O=N[P];e[O[2]]=e[O[3]]*O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]]*O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]]+e[O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]]*O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]]+e[O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+e[O[4]];P=P+1;O=N[P];do return e[O[2]]end P=P+1;O=N[P];do return end;end;elseif l<=92 then if l==91 then local O=O[2];local P=e[O];for O=O+1,d do s(P,e[O])end;else if(O[2]<e[O[4]])then P=P+1;else P=O[3];end;end;elseif l<=93 then if(e[O[2]]~=O[4])then P=P+1;else P=O[3];end;elseif l==94 then local t;local n;local f;local l;e[O[2]]=O[3];P=P+1;O=N[P];l=O[2];d=l+c-1;for O=l,d do f=i[O-l];e[O]=f;end;P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,d))P=P+1;O=N[P];e[O[2]]=e[O[3]]-O[4];P=P+1;O=N[P];e[O[2]]={};P=P+1;O=N[P];e[O[2]]={};P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];l=O[2];n=e[l]t=e[l+2];if(t>0)then if(n>e[l+1])then P=O[3];else e[l+3]=n;end elseif(n<e[l+1])then P=O[3];else e[l+3]=n;end else local l;l=O[2]e[l]=e[l]()P=P+1;O=N[P];e[O[2]][O[3]]=e[O[4]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];l=O[2]e[l]=e[l]()P=P+1;O=N[P];e[O[2]][O[3]]=e[O[4]];P=P+1;O=N[P];P=O[3];end;elseif l<=100 then if l<=97 then if l>96 then do return e[O[2]]end else e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];e[O[2]][e[O[3]]]=e[O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]][e[O[3]]]=e[O[4]];P=P+1;O=N[P];P=O[3];end;elseif l<=98 then local t,d;local l;e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];l=O[2]t,d={e[l](o(e,l+1,O[3]))},0;for O=l,O[4]do d=d+1;e[O]=t[d];end P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,O[3]))P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,O[3]))P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];n[O[3]]=e[O[2]];P=P+1;O=N[P];e[O[2]]=e[O[3]]*O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]]+e[O[4]];P=P+1;O=N[P];do return e[O[2]]end P=P+1;O=N[P];do return end;elseif l>99 then local P=O[2]local l,N={e[P](o(e,P+1,d))},0;for O=P,O[4]do N=N+1;e[O]=l[N];end else if(e[O[2]]<e[O[4]])then P=O[3];else P=P+1;end;end;elseif l<=103 then if l<=101 then local O=O[2];do return o(e,O,d)end;elseif l>102 then local t=r[O[3]];local o;local l={};o=Q({},{__index=function(P,O)local O=l[O];return O[1][O[2]];end,__newindex=function(e,O,P)local O=l[O]O[1][O[2]]=P;end;});for d=1,O[4]do P=P+1;local O=N[P];if O[1]==58 then l[d-1]={e,O[3]};else l[d-1]={n,O[3]};end;h[#h+1]=l;end;e[O[2]]=T(t,o,a);else local P=O[2];do return e[P](o(e,P+1,O[3]))end;end;elseif l<=104 then local N=O[2];local n=e[N+2];local l=e[N]+n;e[N]=l;if(n>0)then if(l<=e[N+1])then P=O[3];e[N+3]=l;end elseif(l>=e[N+1])then P=O[3];e[N+3]=l;end elseif l==105 then local l;local t;local d;e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];d=O[2]e[d]=e[d](o(e,d+1,O[3]))P=P+1;O=N[P];t=O[3];l=e[t]for O=t+1,O[4]do l=l..e[O];end;e[O[2]]=l;else local P=O[2]e[P]=e[P](o(e,P+1,O[3]))end;elseif l<=117 then if l<=111 then if l<=108 then if l==107 then if(e[O[2]]<=e[O[4]])then P=O[3];else P=P+1;end;else local f;local s,a;local l;e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];l=O[2]s,a=t(e[l](o(e,l+1,O[3])))d=a+l-1 f=0;for O=l,d do f=f+1;e[O]=s[f];end;P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,d))P=P+1;O=N[P];e[O[2]][e[O[3]]]=e[O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]]();P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];do return end;P=P+1;O=N[P];P=O[3];end;elseif l<=109 then local f;local a,s;local l;e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];l=O[2]a,s=t(e[l](o(e,l+1,O[3])))d=s+l-1 f=0;for O=l,d do f=f+1;e[O]=a[f];end;P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,d))P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];l=O[2]a,s=t(e[l](o(e,l+1,O[3])))d=s+l-1 f=0;for O=l,d do f=f+1;e[O]=a[f];end;P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,d))P=P+1;O=N[P];e[O[2]][e[O[3]]]=e[O[4]];elseif l>110 then e[O[2]]=e[O[3]][e[O[4]]];else do return e[O[2]]end end;elseif l<=114 then if l<=112 then local P=O[2]local N={e[P]()};local l=O[4];local O=0;for P=P,l do O=O+1;e[P]=N[O];end elseif l>113 then local O=O[2];do return e[O](o(e,O+1,d))end;else local P=O[2];local N=e[P];for O=P+1,O[3]do s(N,e[O])end;end;elseif l<=115 then local t;local d;local l;e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+e[O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]]-O[4];P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,O[3]))P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+e[O[4]];P=P+1;O=N[P];n[O[3]]=e[O[2]];P=P+1;O=N[P];e[O[2]]={};P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];e[O[2]]=#e[O[3]];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];l=O[2];d=e[l]t=e[l+2];if(t>0)then if(d>e[l+1])then P=O[3];else e[l+3]=d;end elseif(d<e[l+1])then P=O[3];else e[l+3]=d;end elseif l==116 then e[O[2]]={};else P=O[3];end;elseif l<=122 then if l<=119 then if l>118 then e[O[2]]=O[3]^e[O[4]];else n[O[3]]=e[O[2]];end;elseif l<=120 then local O=O[2];d=O+c-1;for P=O,d do local O=i[P-O];e[P]=O;end;elseif l==121 then if(e[O[2]]==e[O[4]])then P=P+1;else P=O[3];end;else if(e[O[2]]<=e[O[4]])then P=O[3];else P=P+1;end;end;elseif l<=125 then if l<=123 then local P=O[2]local l,N={e[P](o(e,P+1,O[3]))},0;for O=P,O[4]do N=N+1;e[O]=l[N];end elseif l==124 then e[O[2]][O[3]]=e[O[4]];else e[O[2]]=e[O[3]]*O[4];end;elseif l<=126 then if e[O[2]]then P=P+1;else P=O[3];end;elseif l==127 then local f;local s,a;local l;e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];l=O[2]s,a=t(e[l](o(e,l+1,O[3])))d=a+l-1 f=0;for O=l,d do f=f+1;e[O]=s[f];end;P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,d))P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];n[O[3]]=e[O[2]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+e[O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]]-O[4];P=P+1;O=N[P];l=O[2]s,a=t(e[l](o(e,l+1,O[3])))d=a+l-1 f=0;for O=l,d do f=f+1;e[O]=s[f];end;P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,d))P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+e[O[4]];P=P+1;O=N[P];n[O[3]]=e[O[2]];P=P+1;O=N[P];do return e[O[2]]end P=P+1;O=N[P];do return end;else e[O[2]]=e[O[3]][O[4]];end;elseif l<=150 then if l<=139 then if l<=133 then if l<=130 then if l==129 then e[O[2]]=(O[3]~=0);P=P+1;else local O=O[2]local N,P=t(e[O](o(e,O+1,d)))d=P+O-1 local P=0;for O=O,d do P=P+1;e[O]=N[P];end;end;elseif l<=131 then e[O[2]]=e[O[3]]+O[4];elseif l>132 then if not e[O[2]]then P=P+1;else P=O[3];end;else e[O[2]]=n[O[3]];end;elseif l<=136 then if l<=134 then local O=O[2];do return e[O](o(e,O+1,d))end;elseif l>135 then e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];e[O[2]][e[O[3]]]=e[O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]][e[O[3]]]=e[O[4]];P=P+1;O=N[P];P=O[3];else do return end;end;elseif l<=137 then e[O[2]]=a[O[3]];elseif l>138 then local P=O[2]local N,O=t(e[P](o(e,P+1,O[3])))d=O+P-1 local O=0;for P=P,d do O=O+1;e[P]=N[O];end;else P=O[3];end;elseif l<=144 then if l<=141 then if l>140 then if(e[O[2]]<=O[4])then P=O[3];else P=P+1;end;else local n;local l;e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];l=O[2]e[l]=e[l]()P=P+1;O=N[P];e[O[2]]={};P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,O[3]))P=P+1;O=N[P];l=O[2];d=l+c-1;for O=l,d do n=i[O-l];e[O]=n;end;P=P+1;O=N[P];l=O[2];do return e[l](o(e,l+1,d))end;P=P+1;O=N[P];l=O[2];do return o(e,l,d)end;P=P+1;O=N[P];do return end;end;elseif l<=142 then if(e[O[2]]<=O[4])then P=P+1;else P=O[3];end;elseif l>143 then if(e[O[2]]<=e[O[4]])then P=P+1;else P=O[3];end;else e[O[2]]=O[3]^e[O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]]/e[O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]]-O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]]-O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]]-e[O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];e[O[2]]=O[3]^e[O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]]%e[O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]]%O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]]-e[O[4]];P=P+1;O=N[P];do return e[O[2]]end P=P+1;O=N[P];P=O[3];end;elseif l<=147 then if l<=145 then local l;e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,O[3]))P=P+1;O=N[P];if(e[O[2]]~=O[4])then P=P+1;else P=O[3];end;elseif l==146 then local d;local t;local l;e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,O[3]))P=P+1;O=N[P];e[O[2]]=e[O[3]]-O[4];P=P+1;O=N[P];l=O[2]e[l]=e[l](e[l+1])P=P+1;O=N[P];t=O[3];d=e[t]for O=t+1,O[4]do d=d..e[O];end;e[O[2]]=d;else e[O[2]][e[O[3]]]=e[O[4]];end;elseif l<=148 then e[O[2]]=T(r[O[3]],nil,a);elseif l==149 then local l;l=O[2]e[l]=e[l]()P=P+1;O=N[P];e[O[2]]=e[O[3]]-O[4];P=P+1;O=N[P];e[O[2]][O[3]]=e[O[4]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];l=O[2]e[l]=e[l]()P=P+1;O=N[P];e[O[2]][O[3]]=e[O[4]];else e[O[2]]=a[O[3]];end;elseif l<=161 then if l<=155 then if l<=152 then if l==151 then e[O[2]]=e[O[3]]/e[O[4]];else e[O[2]]=e[O[3]]%O[4];end;elseif l<=153 then local O=O[2]local N,P=t(e[O]())d=P+O-1 local P=0;for O=O,d do P=P+1;e[O]=N[P];end;elseif l==154 then local O=O[2]local N,P=t(e[O](o(e,O+1,d)))d=P+O-1 local P=0;for O=O,d do P=P+1;e[O]=N[P];end;else local O=O[2]e[O]=e[O]()end;elseif l<=158 then if l<=156 then local n;local s,a;local f;local l;e[O[2]]=O[3];P=P+1;O=N[P];l=O[2];d=l+c-1;for O=l,d do f=i[O-l];e[O]=f;end;P=P+1;O=N[P];l=O[2]s,a=t(e[l](o(e,l+1,d)))d=a+l-1 n=0;for O=l,d do n=n+1;e[O]=s[n];end;P=P+1;O=N[P];l=O[2];do return o(e,l,d)end;P=P+1;O=N[P];do return end;elseif l==157 then local O=O[2];local P=e[O];for O=O+1,d do s(P,e[O])end;else e[O[2]]=e[O[3]]/O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]]-e[O[4]];P=P+1;O=N[P];e[O[2]]=e[O[3]]/O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]]*O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];P=O[3];end;elseif l<=159 then if(e[O[2]]<=O[4])then P=O[3];else P=P+1;end;elseif l==160 then local P=O[2]local l,N={e[P](o(e,P+1,d))},0;for O=P,O[4]do N=N+1;e[O]=l[N];end else if(e[O[2]]<e[O[4]])then P=P+1;else P=O[3];end;end;elseif l<=166 then if l<=163 then if l>162 then e[O[2]]=e[O[3]]%O[4];else local O=O[2]e[O]=e[O]()end;elseif l<=164 then if(e[O[2]]==e[O[4]])then P=P+1;else P=O[3];end;elseif l>165 then local N=O[2];local n=e[N+2];local l=e[N]+n;e[N]=l;if(n>0)then if(l<=e[N+1])then P=O[3];e[N+3]=l;end elseif(l>=e[N+1])then P=O[3];e[N+3]=l;end else if(O[2]<e[O[4]])then P=P+1;else P=O[3];end;end;elseif l<=169 then if l<=167 then e[O[2]]=O[3]^e[O[4]];elseif l==168 then e[O[2]]=O[3]/O[4];else local d;local l;e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,O[3]))P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];e[O[2]]=O[3];P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,O[3]))P=P+1;O=N[P];e[O[2]]={};P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];l=O[2]e[l]=e[l]()P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];l=O[2]e[l]=e[l]()P=P+1;O=N[P];for O=O[2],O[3]do e[O]=nil;end;P=P+1;O=N[P];l=O[2];d=e[l];for O=l+1,O[3]do s(d,e[O])end;end;elseif l<=170 then local f;local s,a;local l;e[O[2]]=e[O[3]][e[O[4]]];P=P+1;O=N[P];e[O[2]]=n[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];e[O[2]]=e[O[3]]+O[4];P=P+1;O=N[P];e[O[2]]=e[O[3]];P=P+1;O=N[P];l=O[2]s,a=t(e[l](o(e,l+1,O[3])))d=a+l-1 f=0;for O=l,d do f=f+1;e[O]=s[f];end;P=P+1;O=N[P];l=O[2]e[l]=e[l](o(e,l+1,d))P=P+1;O=N[P];e[O[2]][e[O[3]]]=e[O[4]];P=P+1;O=N[P];P=O[3];elseif l==171 then e[O[2]]=e[O[3]]-e[O[4]];else e[O[2]]();end;P=P+1;end;end;end;return T(R(),{},_)(...);end)(...)
