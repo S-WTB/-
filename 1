@@ -73,9 +73,9 @@ local Library = {
 
     MinSize = Vector2.new(480, 360),
     DPIScale = 1,
-    CornerRadius = 4,
+    CornerRadius = 10,
 
-    IsLightTheme = false,
+    IsLightTheme = true,
     Scheme = {
         BackgroundColor = Color3.fromRGB(15, 15, 15),
         MainColor = Color3.fromRGB(25, 25, 25),
@@ -112,7 +112,7 @@ end
 local Templates = {
     --// UI \\-
     Frame = {
-        BorderSizePixel = 0,
+        BorderSizePixel = 30,
     },
     ImageLabel = {
         BackgroundTransparency = 1,
@@ -165,7 +165,7 @@ local Templates = {
         AutoShow = true,
         Center = true,
         Resizable = true,
-        CornerRadius = 20,
+        CornerRadius = 10,
         NotifySide = "Right",
         ShowCustomCursor = true,
         Font = Enum.Font.Code,
