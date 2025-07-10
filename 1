@@ -126,14 +126,14 @@ local Templates = {
         BorderSizePixel = 0,
     },
     TextLabel = {
-        BorderSizePixel = 0,
+        BorderSizePixel = 10,
         FontFace = "Font",
         RichText = true,
         TextColor3 = "FontColor",
     },
     TextButton = {
         AutoButtonColor = false,
-        BorderSizePixel = 0,
+        BorderSizePixel = 10,
         FontFace = "Font",
         RichText = true,
         TextColor3 = "FontColor",
@@ -5211,3 +5211,4 @@ Library:GiveSignal(Teams.ChildRemoved:Connect(OnTeamChange))
 
 getgenv().Library = Library
 return Library
+
